@@ -49,16 +49,17 @@ data-cleaning-transformation/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
 ## 🛠️ Tech Stack
-Python — Pandas, NumPy
-Data Visualization — Matplotlib, Seaborn
-Database — PostgreSQL/MySQL (SQLAlchemy for connection)
-Notebooks — Jupyter Notebook
+- **Python** — Pandas, NumPy  
+- **Data Visualization** — Matplotlib, Seaborn  
+- **Database** — PostgreSQL/MySQL (SQLAlchemy for connection)  
+- **Notebooks** — Jupyter Notebook 
 
 ## 📌 Key Analyses
-🔍 Missing Values Analysis — Identify data gaps using a heatmap.
-💰 Price Trends — Histogram & group-wise averages.
-🌍 Neighbourhood Insights — Distribution of listings by area.
-📈 Correlation Study — Relationship between numeric features.
+- **Missing Values Analysis** — Identify data gaps using a heatmap
+- **Price Trends** — Histogram & group-wise averages
+- **Neighbourhood Insights** — Distribution of listings by area
+- **Correlation Study** — Relationship between numeric features
 
