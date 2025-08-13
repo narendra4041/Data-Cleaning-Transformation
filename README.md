@@ -50,13 +50,13 @@ data-cleaning-transformation/
 ├── README.md
 └── LICENSE
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python — Pandas, NumPy
 Data Visualization — Matplotlib, Seaborn
 Database — PostgreSQL/MySQL (SQLAlchemy for connection)
 Notebooks — Jupyter Notebook
 
-📌 Key Analyses
+## 📌 Key Analyses
 🔍 Missing Values Analysis — Identify data gaps using a heatmap.
 💰 Price Trends — Histogram & group-wise averages.
 🌍 Neighbourhood Insights — Distribution of listings by area.
